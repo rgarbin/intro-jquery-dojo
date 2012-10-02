@@ -3,6 +3,8 @@
 Esta apresentação foi elaborada baseada no livro do Maujor, Jquery a Biblioteca do Programador JavaScript.
 O objetivo foi apresentar em um encontro técnico para troca de conhecimento.
 
+Recomendo muito comprar: http://www.livrojquery.com.br/
+
 ## O que é o jQuery?
 - É uma biblioteca projetada para mudar a forma como escrevemos javascript.
 - Teve inicio em 2005 com um artigo de John Resig

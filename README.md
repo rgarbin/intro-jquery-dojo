@@ -72,9 +72,17 @@ Segundo John Resig, o criador:
 ## Eventos
 - Uma das frases do livro que acho mais incrível no livro do Maujor é esta:
 
-    É licito dizer que se não houvesse eventos, simplesmente não haveria javascript
+    "É licito dizer que se não houvesse eventos, simplesmente não haveria javascript"
 
 - O jQuery permite e recomenda a separação de marcação(HTML), comportamento(JS) e apresentação(CSS), deixando nosso código clean
+- Dois dos principais eventos sem dúvida são o ready e o load:
+
+    jQuery(document).ready(function(){ // DOM ok
+      jQuery(window).load(function(){
+        alert('Página Carregada');
+      });
+    });
+
 
 ## Seletor e funções
 

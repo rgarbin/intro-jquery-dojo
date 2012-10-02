@@ -54,6 +54,10 @@ Segundo John Resig, o criador:
 - Agilidade
 
 ## Como usar?
+- Barbadinha, basta fazer o download e linkar o arquivo a sua página
+- Durante o download irá notar que exitem dois formatos
+    - Uncompressed(Ideal para desenvolvedores que vão trabalhar na biblioteca.)
+    - Minified(Ideal para o ambiente de produção.)
 
 ## Conflitos
 

@@ -40,6 +40,18 @@ Segundo John Resig, o criador:
 - Entre vários outros grandes. Etc...
 
 ## Vantagens
+- Não precisa ser um profundo conhecedor de javascript para iniciar
+- Simplicidade é a palavra-chave que resume e nortea o desenvolvimento com jQuery
+- jQuery foi criado com a preocupação de estar em conformidade com os padrões web
+- Compatibilidade entre diversos navegadores
+- Admite programação encadeada, ou seja, cada método retorna um objeto
+- É extensível, pois permite criação e inserção de novas funcionalidades
+- Redução de código
+- vasta documentação
+- Leve
+- Suporte a Ajax
+- Não é preciso instalar nada para utilizar
+- Agilidade
 
 ## Como usar?
 

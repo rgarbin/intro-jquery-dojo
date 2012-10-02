@@ -11,8 +11,8 @@ O objetivo foi apresentar em um encontro técnico para troca de conhecimento.
 
 Segundo John Resig:
 
-   O foco principal da biblioteca jQuery é simplicidade.
-   Por que submeter os desenvolvedores ao martírio de escrever códigos longos e complexos para criar simples efeitos.
+    O foco principal da biblioteca jQuery é simplicidade. \
+    Por que submeter os desenvolvedores ao martírio de escrever códigos longos e complexos para criar simples efeitos.
 
 ## Evolução
 

@@ -70,6 +70,11 @@ Segundo John Resig, o criador:
 - Para evitar conflitos utilize o alias "jQuery" ou defina qual será seu construtor
 
 ## Eventos
+- Uma das frases do livro que acho mais incrível no livro do Maujor é esta:
+
+    É licito dizer que se não houvesse eventos, simplesmente não haveria javascript
+
+- O jQuery permite e recomenda a separação de marcação(HTML), comportamento(JS) e apresentação(CSS), deixando nosso código clean
 
 ## Seletor e funções
 

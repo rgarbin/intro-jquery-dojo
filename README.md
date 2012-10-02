@@ -60,6 +60,14 @@ Segundo John Resig, o criador:
     - Minified(Ideal para o ambiente de produção.)
 
 ## Conflitos
+- Atenção, jQuery não é a unica bibliteca javascript
+    - Prototype
+    - Mootools
+    - YUI
+    - Dojo
+- jQuery utiliza por default o construtor $(), mas ele não é o único!
+- Tudo o que é escrito em jQuery utiliza o construtor
+- Para evitar conflitos utilize o alias "jQuery" ou defina qual será seu construtor
 
 ## Eventos
 

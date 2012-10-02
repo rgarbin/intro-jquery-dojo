@@ -1,9 +1,8 @@
 # Introdução ao jQuery
 
-Esta apresentação foi elaborada baseada no livro do Maujor, Jquery a Biblioteca do Programador JavaScript.
-O objetivo foi apresentar em um encontro técnico para troca de conhecimento.
-
-Recomendo muito comprar: http://www.livrojquery.com.br/
+- Esta apresentação foi elaborada após ler o livro do Maujor, "Jquery a Biblioteca do Programador JavaScript"
+- O objetivo foi apresentar em um encontro técnico para troca de conhecimento.
+- Recomendo muito comprar: http://www.livrojquery.com.br/
 
 ## O que é o jQuery?
 - É uma biblioteca projetada para mudar a forma como escrevemos javascript.
@@ -29,6 +28,16 @@ Segundo John Resig, o criador:
 - 2013: Versões 2.0.0(Removendo suporte ao IE6-8)
 
 ## Quem usa?
+- Google
+- Dell
+- Bank of America
+- Digg
+- NBC
+- CBS News
+- Netflix
+- Mozilla.org
+- Wordpress
+- Entre vários outros grandes. Etc...
 
 ## Vantagens
 

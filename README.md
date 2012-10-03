@@ -24,8 +24,7 @@ Segundo John Resig, o criador:
 - 2010: Versões 1.4, 1.4.1, 1.4.2, 1.4.3, 1.4.4
 - 2011: Versões 1.5, 1.5.1, 1.5.2, 1.6, 1.6.1, 1.6.2, 1.6.3, 1.6.4, 1.7 e 1.7.1
 - 2012: Versões 1.7.2, 1.8.0, 1.8.1, e 1.8.2
-- 2012: Versões 1.9.0
-- 2013: Versões 2.0.0(Removendo suporte ao IE6-8)
+- 2013: Versões 1.9.0 e 2.0.0 com a remoção do suporte ao IE6-8)
 
 ## Quem usa?
 - Google

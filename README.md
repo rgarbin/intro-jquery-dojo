@@ -146,3 +146,12 @@ Agora veremos como setar o foco no primeiro elemento do formulário:
 O uso do JQuery torna nosso trabalho mais simples e ágil, fazendo com que os desenvolvedores ganhem tempo e não percam o foco.
 Não achem que jQuery é uma bala de prata, infelizmente não existe solução perfeita para tudo, mas em muito casos será um bom amigo!
 
+## Vídeos da BlueSoft! 
+- jQuery - Trabalhando com eventos(http://vimeo.com/18702701)
+- jQuery - Funções de animação(http://vimeo.com/19042175)
+- jQuery - Funções utilitárias(http://vimeo.com/19978558)
+- jQuery - Funções utilitárias para Ajax(http://vimeo.com/20649896)
+- jQuery - Plugins de interação(http://vimeo.com/23554739)
+- jQuery Ui(http://vimeo.com/21608008 e http://vimeo.com/22397630)
+- 
+

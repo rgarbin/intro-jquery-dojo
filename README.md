@@ -152,6 +152,6 @@ Não achem que jQuery é uma bala de prata, infelizmente não existe solução p
 - jQuery - Funções utilitárias(http://vimeo.com/19978558)
 - jQuery - Funções utilitárias para Ajax(http://vimeo.com/20649896)
 - jQuery - Plugins de interação(http://vimeo.com/23554739)
-- jQuery Ui(http://vimeo.com/21608008 e http://vimeo.com/22397630)
-- 
+- jQuery Ui - http://vimeo.com/21608008
+- jQuery Ui - http://vimeo.com/22397630
 

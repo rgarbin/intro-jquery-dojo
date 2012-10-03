@@ -144,3 +144,6 @@ Agora veremos como setar o foco no primeiro elemento do formulário:
 
 
 ## Conclusão
+O uso do JQuery torna nosso trabalho mais simples e ágil, fazendo com que os desenvolvedores ganhem tempo e não percam o foco.
+Não achem que jQuery é uma bala de prata, infelizmente não existe solução perfeita para tudo, mas em muito casos será um bom amigo!
+

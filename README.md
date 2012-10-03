@@ -75,19 +75,72 @@ Uma das frases do livro que acho mais incrível no livro do Maujor é esta:
     É licito dizer que se não houvesse eventos, simplesmente não haveria javascript
 
 O jQuery permite e recomenda a separação de marcação(HTML), comportamento(JS) e apresentação(CSS), deixando nosso código clean
-Dois dos principais eventos sem dúvida são o ready e o load:
+Dois dos principais eventos sem dúvida são o ready() e o load():
 
     jQuery(document).ready(function(){ // DOM ok
       jQuery(window).load(function(){
-        alert('Página Carregada');
+        alert('Página Carregada, bora baixar as imgs?');
       });
     });
 
 
-## Seletor e funções
+## Seletor 
+- Seletores servem para encontrar elementos na nossa página
+- Utiliza os seletores do CSS 3, e mais alguns particulares
+- Existem diversos tipos de seletores, tudo depende do que você precisa!
+    - Seletor por ID: jQuery('#seletorElemento1').css('color', 'red');
+    - Seletor pelo atributo CLASS: jQuery('.classInter').css('color', 'red');
+    - Seletor por elemento: jQuery('div').each( function(){  alert(jQuery(this).text()); });
+    - Seletor por tipo: Query(':checkbox').attr('checked', true);
 
-## Filtro para seletores
+
+## Filtros
+Com jQuery podemos aplicar filtros para os seletores
+Os filtros nos ajudam a ser mais precisos em nossa buscas, como por exemplo:
+
+    jQuery('li:first').hide();
+    jQuery('li:last').hide();
+    jQuery('li:even').hide();
+    jQuery('li:odd').hide();
+    jQuery('li:eq(6)').hide();
+    jQuery('li:has(p)').hide();
+    jQuery('li:not(li:first)').hide();
+
 
 ## Exemplos
+- jQuery faz por merecer seu slogan
+
+Veremos como marcar todas as checkbox do formulário:
+
+    for (indice=0; indice<document.forms.length; indice++) {
+      for (i=0; i<document.forms[indice].elements.length; i++) {
+        if ((document.forms[indice].elements[i].type == 'checkbox')) {
+          document.forms[indice].elements[i].checked = true;
+        }
+      }
+    }
+
+    jQuery(document).ready(function() {
+      jQuery(':checkbox').attr('checked', true);
+    });
+
+
+Agora veremos como setar o foco no primeiro elemento do formulário:
+
+    for (indice=0; indice<document.forms.length; indice++) {
+      for (i=0; i<document.forms[indice].elements.length; i++) {
+        if ((document.forms[indice].elements[i].type == 'text')) {
+          if ((document.forms[indice].elements[i].disabled == 'false') && (document.forms[indice].elements[i].readonly == 'false')) {
+            setTimeout('document.forms[indice].elements[i].focus()',500);
+            break;
+          }
+        }
+      }
+    }
+
+    $(function(){
+      $(':text:visible:enabled[value=""]:first').focus();
+    });
+
 
 ## Conclusão
